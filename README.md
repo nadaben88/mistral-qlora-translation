@@ -6,12 +6,14 @@ enabling real-time interactive translation via a Gradio web demo. The pipeline i
 ## Model Performance
 The fine-tuned Mistral-7B model achieved the following performance metrics on the WMT14 newstest2014 benchmark (100 samples):
 
-  Metric,Score
-BLEU-4,20.49
-BLEU-3,28.04
-SacreBLEU,34.81
-BLEU-2,41.12
-BLEU-1,62.18
+  Metric       |   Score     |
+ |-------------|-------------|
+ | **SacreBLEU**|   34.81    |
+ | **BLEU-1**  |     62.18   |
+ | **BLEU-2**  |     41.12   |
+ | **BLEU-3**  |     28.04   |
+ | **BLEU-4**  |     20.49   |
+
 
 
  
