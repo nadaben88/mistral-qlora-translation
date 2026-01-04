@@ -1,0 +1,8 @@
+{
+  "model": "mistralai/Mistral-7B-v0.3",
+  "max_length": 512,
+  "task": "English\u2192French translation",
+  "label_masking": "causal LM (-100 on prompt)",
+  "dataset": "WMT14 fr-en",
+  "benchmark": "Standard MT evaluation benchmark"
+}

@@ -1,0 +1,256 @@
+{
+  "num_samples": 50,
+  "mode": "test",
+  "translations": [
+    {
+      "source": "Spectacular Wingsuit Jump Over Bogota",
+      "prediction": "Vol à l’aileron de voile à Bogota",
+      "reference": "Spectaculaire saut en \"wingsuit\" au-dessus de Bogota"
+    },
+    {
+      "source": "Sportsman Jhonathan Florez jumped from a helicopter above Bogota, the capital of Colombia, on Thursday.",
+      "prediction": "Sportif Jhonathan Florez sauta du haut d’un hélicoptère au-dessus de Bogota, la capitale de la Colombie, jeudi. (Photo credit: Wikipedia)",
+      "reference": "Le sportif Jhonathan Florez a sauté jeudi d'un hélicoptère au-dessus de Bogota, la capitale colombienne."
+    },
+    {
+      "source": "Wearing a wingsuit, he flew past over the famous Monserrate Sanctuary at 160km/h. The sanctuary is located at an altitude of over 3000 meters and numerous spectators had gathered there to watch his exploit.",
+      "prediction": "Vêtu d’un combinaison aile, il a volé à 160 km/h au-dessus du sanctuaire de Monserrate, situé à plus de 3000 mètres d’altitude. De nombreux spectateurs avaient rassemblé là pour assister à son exploit.",
+      "reference": "Equipé d'un wingsuit (une combinaison munie d'ailes), il est passé à 160 km/h au-dessus du célèbre sanctuaire Monserrate, situé à plus de 3 000 mètres d'altitude, où de nombreux badauds s'étaient rassemblés pour observer son exploit."
+    },
+    {
+      "source": "A black box in your car?",
+      "prediction": "Un boîte noire dans votre voiture?",
+      "reference": "Une boîte noire dans votre voiture ?"
+    },
+    {
+      "source": "As America's road planners struggle to find the cash to mend a crumbling highway system, many are beginning to see a solution in a little black box that fits neatly by the dashboard of your car.",
+      "prediction": "En Amérique, les planificateurs de routes se heurtent à des difficultés pour trouver les fonds nécessaires à la réfection d'un réseau routier en mauvais état. Certains d'entre eux voient dans une petite boîte noire qui se loge facilement à côté du tableau de bord de votre voiture, la solution à leur problème. (Photo credit: Wikipedia)",
+      "reference": "Alors que les planificateurs du réseau routier des États-Unis ont du mal à trouver l'argent nécessaire pour réparer l'infrastructure autoroutière en décrépitude, nombreux sont ceux qui entrevoient une solution sous forme d'une petite boîte noire qui se fixe au-dessus du tableau de bord de votre voiture."
+    },
+    {
+      "source": "The devices, which track every mile a motorist drives and transmit that information to bureaucrats, are at the center of a controversial attempt in Washington and state planning offices to overhaul the outdated system for funding America's major roads.",
+      "prediction": "Les dispositifs, qui suivent chaque mile parcouru par un motoriste et transmettent cette information aux fonctionnaires, sont au cœur d'une tentative controversée dans Washington et dans les bureaux d'état-major de réformer le système dépassé de financement des grandes routes américaines. (Photo credit: Wikipedia)",
+      "reference": "Les appareils, qui enregistrent tous les miles parcourus par un automobiliste et transmettent les informations aux fonctionnaires, sont au centre d'une tentative controversée à Washington et dans les bureaux gouvernementaux de la planification de remanier le système obsolète de financement des principales routes américaines."
+    },
+    {
+      "source": "The usually dull arena of highway planning has suddenly spawned intense debate and colorful alliances.",
+      "prediction": "La planification des autoroutes a connu un changement de cap.",
+      "reference": "Le secteur généralement sans intérêt de la planification des grands axes a soudain provoqué un débat fort animé et des alliances mouvementées."
+    },
+    {
+      "source": "Libertarians have joined environmental groups in lobbying to allow government to use the little boxes to keep track of the miles you drive, and possibly where you drive them - then use the information to draw up a tax bill.",
+      "prediction": "Les libertariens ont rejoint les groupes écologistes pour demander au gouvernement de pouvoir utiliser les petits boîtes pour suivre les kilomètres que vous faites, et peut-être où vous les faites - puis de tirer un compte-rendu fiscal à partir de ces informations.",
+      "reference": "Les libertaires ont rejoint des groupes écologistes pour faire pression afin que le gouvernement utilise les petites boîtes pour garder la trace des miles que vous parcourez, et éventuellement de la route sur laquelle vous circulez, puis utiliser les informations pour rédiger un projet de loi fiscal."
+    },
+    {
+      "source": "The tea party is aghast.",
+      "prediction": "Les tisaneurs sont horrifiés.",
+      "reference": "Le Tea Party est atterré."
+    },
+    {
+      "source": "The American Civil Liberties Union is deeply concerned, too, raising a variety of privacy issues.",
+      "prediction": "L’Union américaine des libertés civiles est également inquiète, soulignant une variété d’enjeux de confidentialité.",
+      "reference": "L'American Civil Liberties Union est elle aussi très préoccupée et exprime son inquiétude concernant la protection de la vie privée."
+    },
+    {
+      "source": "And while Congress can't agree on whether to proceed, several states are not waiting.",
+      "prediction": "Et tandis que le Congrès ne parvient pas à s'entendre",
+      "reference": "Et tandis que les membres du Congrès n'arrivent pas à se mettre d'accord pour savoir s'il faut continuer, plusieurs États n'ont pas attendu."
+    },
+    {
+      "source": "They are exploring how, over the next decade, they can move to a system in which drivers pay per mile of road they roll over.",
+      "prediction": "Ils exploreraient comment, au cours des dix prochaines années, ils pourraient passer à un système dans lequel les conducteurs payeraient par mile de route qu’ils rouleraient.",
+      "reference": "Ils cherchent comment, au cours de la prochaine décennie, ils pourront passer à un système permettant aux conducteurs de payer en fonction du nombre de miles parcourus."
+    },
+    {
+      "source": "Thousands of motorists have already taken the black boxes, some of which have GPS monitoring, for a test drive.",
+      "prediction": "Des milliers de conducteurs ont déjà emprunté les boîtes noires, certaines équipées de GPS, pour une démonstration. (Photo credit: Wikipedia)",
+      "reference": "Des milliers d'automobilistes ont déjà embarqué ces boîtes noires, parfois équipées d'un système de surveillance par GPS, pour une virée expérimentale."
+    },
+    {
+      "source": "This really is a must for our nation.",
+      "prediction": "C’est une nécessité pour notre pays.",
+      "reference": "Cela est vraiment indispensable pour notre nation."
+    },
+    {
+      "source": "\"It is not a matter of something we might choose to do,\" said Hasan Ikhrata, executive director of the Southern California Assn. of Governments, which is planning for the state to start tracking miles driven by every California motorist by 2025.",
+      "prediction": "« C’est pas une chose que nous pourrions choisir de faire, » a déclaré Hasan Ikhrata, directeur exécutif de l’Association des gouverneurs du sud de la Californie, qui prévoit que l’État commence à enregistrer le nombre de kilomètres parcourus par chaque motoriste californien d’ici 2025. (Photo credit: Wikipedia)",
+      "reference": "« Ce n'est pas comme si nous avions le choix », a déclaré Hasan Ikhrata, directeur général de la Southern California Association of Governments, qui prévoit que l'État commence à enregistrer les miles parcourus par chaque automobiliste californien d'ici 2025."
+    },
+    {
+      "source": "There is going to be a change in how we pay these taxes.",
+      "prediction": "Le gouvernement va changer la façon dont nous payons ces imp",
+      "reference": "Il va y avoir du changement dans la façon dont nous payons ces taxes."
+    },
+    {
+      "source": "The technology is there to do it.",
+      "prediction": "La technologie est là pour le faire.",
+      "reference": "La technologie est là pour le faire."
+    },
+    {
+      "source": "The push comes as the country's Highway Trust Fund, financed with taxes Americans pay at the gas pump, is broke.",
+      "prediction": "La poussée vient alors que le fonds de confiance des autoroutes du pays, financé par les taxes que les Américains versent au carburant, est épuisé. (Traduction automatique)",
+      "reference": "La pression vient du fait que le Highway Trust Fund du pays, financé avec les taxes que les Américains paient à la pompe, est financièrement à sec."
+    },
+    {
+      "source": "Americans don't buy as much gas as they used to.",
+      "prediction": "Les Américains ne consomment plus autant de gazole qu'auparavant.",
+      "reference": "Les Américains n'achètent plus autant d'essence qu'avant."
+    },
+    {
+      "source": "Cars get many more miles to the gallon.",
+      "prediction": "La voiture a beaucoup plus de kilomètres par litre.",
+      "reference": "Les voitures peuvent parcourir plus de miles avec un gallon."
+    },
+    {
+      "source": "The federal tax itself, 18.4 cents per gallon, hasn't gone up in 20 years.",
+      "prediction": "La taxe fédérale elle-même, à 18,4 cents par litre, n'a pas augmenté depuis 20 ans. (Photo credit: Wikipedia)",
+      "reference": "La taxe fédérale elle-même, qui est de 18,4 cents par gallon, n'a pas augmenté depuis 20 ans."
+    },
+    {
+      "source": "Politicians are loath to raise the tax even one penny when gas prices are high.",
+      "prediction": "Les politiciens sont réticents à augmenter la taxe d’un centime quand les prix du pétrole sont élevés.",
+      "reference": "Les hommes politiques sont réticents à augmenter la taxe, même d'1 cent, alors que les prix de l'essence sont élevés."
+    },
+    {
+      "source": "\"The gas tax is just not sustainable,\" said Lee Munnich, a transportation policy expert at the University of Minnesota.",
+      "prediction": "\"La taxe sur les carburants n'est pas durable\", a déclaré Lee Munnich, un expert en politique de transport de l'Université du Minnesota. (Photo credit: Wikipedia)",
+      "reference": "« La taxe sur l'essence n'est tout simplement pas tenable », a déclaré Lee Munnich, un spécialiste des politiques de transports à l'université du Minnesota."
+    },
+    {
+      "source": "His state recently put tracking devices on 500 cars to test out a pay-by-mile system.",
+      "prediction": "Son État a récemment placé des dispositifs de suivi sur 500 voitures pour tester un système de paiement par kilomètre. (Photo credit: Wikipedia)",
+      "reference": "Son État a récemment fait installer des traceurs sur 500 voitures pour tester un système de paiement au mile."
+    },
+    {
+      "source": "\"This works out as the most logical alternative over the long term,\" he said.",
+      "prediction": "\"C'est la solution la plus logique au long terme,\" a dit-il.",
+      "reference": "« Cela s'avère être l'alternative la plus logique à long terme », a-t-il dit."
+    },
+    {
+      "source": "Wonks call it a mileage-based user fee.",
+      "prediction": "Les gens du monde disent qu’il s’agit d’une taxe à l’usage du kilométrage.",
+      "reference": "Wonks appelle cela des frais d'utilisation au kilométrage."
+    },
+    {
+      "source": "It is no surprise that the idea appeals to urban liberals, as the taxes could be rigged to change driving patterns in ways that could help reduce congestion and greenhouse gases, for example.",
+      "prediction": "Il n’est pas étonnant que l’idée plaise aux libéraux urbains, car les taxes pourraient être rigées de façon à changer les comportements de conduite en fonction des besoins de la ville, par exemple, en réduisant la congestion et les émissions de gaz à effet de serre.",
+      "reference": "Il n'est pas surprenant que l'idée séduise les libéraux citadins, puisque les taxes pourraient servir à modifier les habitudes de conduite de manière à permettre de réduire les encombrements et les émissions de gaz, par exemple."
+    },
+    {
+      "source": "California planners are looking to the system as they devise strategies to meet the goals laid out in the state's ambitious global warming laws.",
+      "prediction": "Les planificateurs californiens s'intéressent à ce système alors qu'ils élaborent des stratégies pour atteindre les objectifs fixés par les lois sur le réchauffement climatique de l'État. (Traduction automatique)",
+      "reference": "Les planificateurs de Californie s'intéressent au système puisqu'ils élaborent des stratégies pour atteindre les objectifs fixés dans les lois ambitieuses de l'État sur le réchauffement climatique."
+    },
+    {
+      "source": "But Rep. Bill Shuster (R-Pa.), chairman of the House Transportation Committee, has said he, too, sees it as the most viable long-term alternative.",
+      "prediction": "Mais le représentant Bill Shuster (R-Pa.), président du Comité des transports de la Chambre des représentants,",
+      "reference": "Mais le représentant Bill Shuster (R-Pa.), président du Comité des transports de la Chambre des représentants, a déclaré qu'il le considérait aussi comme l'alternative la plus viable à long terme."
+    },
+    {
+      "source": "The free marketeers at the Reason Foundation are also fond of having drivers pay per mile.",
+      "prediction": "Les libéraux du marché de la Fondation Reason sont également friands de faire payer aux conducteurs au kilomètre. (Photo credit: Wikipedia)",
+      "reference": "Les partisans du marché libre de la fondation Reason apprécient également l'idée de faire payer les conducteurs au mile."
+    },
+    {
+      "source": "\"This is not just a tax going into a black hole,\" said Adrian Moore, vice president of policy at Reason.",
+      "prediction": "\"C'est pas juste un impôt qui va se perdre dans un trou noir,\" a dit Adrian Moore, vice-président de la politique de la Raison. (Photo credit: Wikipedia)",
+      "reference": "« Il ne s'agit pas simplement d'une taxe s'engouffrant dans un grand trou noir », a déclaré Adrian Moore, vice-président de la politique à la fondation Reason."
+    },
+    {
+      "source": "People are paying more directly into what they are getting.",
+      "prediction": "Le gouvernement paye moins pour ce qu’il reçoit.",
+      "reference": "Les gens paient plus directement pour les avantages qui leur sont procurés."
+    },
+    {
+      "source": "The movement is also bolstered by two former U.S. Transportation secretaries, who in a 2011 report urged Congress to move in the pay-per-mile direction.",
+      "prediction": "Le mouvement est également soutenu par deux anciens secrétaires américains au transport, qui dans un rapport de 2011 ont appelé le Congrès à se diriger dans la direction de la tarification au kilomètre parcouru.",
+      "reference": "Le mouvement est également soutenu par deux anciens secrétaires américains aux Transports qui, dans un rapport de 2011, exhortaient le Congrès à aller dans la voie du paiement au mile."
+    },
+    {
+      "source": "The U.S. Senate approved a $90-million pilot project last year that would have involved about 10,000 cars.",
+      "prediction": "Le Sénat américain a approuvé un projet pilote de 90 millions de dollars dernier été qui aurait impliqué environ 10 000 véhicules.",
+      "reference": "Le Sénat américain a approuvé un projet pilote de 90 M$ l'année dernière qui aurait porté sur environ 10 000 voitures."
+    },
+    {
+      "source": "But the House leadership killed the proposal, acting on concerns of rural lawmakers representing constituents whose daily lives often involve logging lots of miles to get to work or into town.",
+      "prediction": "Mais le chef de la majorité a tué la proposition, agissant sur des inquiétudes des députés ruraux représentant des constituants dont les vies quotidiennes impliquent souvent de parcourir de grandes distances pour se rendre au travail ou dans le centre-ville.",
+      "reference": "Mais la présidence de la Chambre a tué la proposition, répondant aux préoccupations des législateurs ruraux représentant des électeurs qui doivent parcourir de nombreux miles tous les jours pour se rendre à leur travail ou en ville."
+    },
+    {
+      "source": "Several states and cities are nonetheless moving ahead on their own.",
+      "prediction": "Plusieurs États et villes continuent de progresser sur leur propre chemin.",
+      "reference": "Plusieurs États et grandes villes font néanmoins des progrès de leur côté."
+    },
+    {
+      "source": "The most eager is Oregon, which is enlisting 5,000 drivers in the country's biggest experiment.",
+      "prediction": "L'Oregon est le plus enthousiaste, puisqu'il recrute 5 000 conducteurs dans le plus grand essai du pays.",
+      "reference": "Le plus déterminé est l'Oregon, qui a mobilisé 5 000 conducteurs pour mener l'expérience la plus importante du pays."
+    },
+    {
+      "source": "Those drivers will soon pay the mileage fees instead of gas taxes to the state.",
+      "prediction": "Les conducteurs payeront bientôt les frais de kilométrage à la place des taxes sur le carburant à l’État.",
+      "reference": "Ces automobilistes paieront bientôt à l'État des frais kilométriques au lieu des taxes sur l'essence."
+    },
+    {
+      "source": "Nevada has already completed a pilot.",
+      "prediction": "Le Nevada a déjà effectué un essai pilote.",
+      "reference": "Le Nevada a déjà mené à terme un projet pilote."
+    },
+    {
+      "source": "New York City is looking into one.",
+      "prediction": "New York City est en train d’étudier.",
+      "reference": "La ville de New York en envisage un."
+    },
+    {
+      "source": "Illinois is trying it on a limited basis with trucks.",
+      "prediction": "L’Illinois essaye sur une base limitée avec les camions.",
+      "reference": "L'Illinois tente un essai sur un nombre limité de camions."
+    },
+    {
+      "source": "And the I-95 Coalition, which includes 17 state transportation departments along the Eastern Seaboard (including Maryland, Pennsylvania, Virginia and Florida), is studying how they could go about implementing the change.",
+      "prediction": "Et la Coalition I-95, qui comprend 17 départements de transport de l’État le long de la côte Est (y compris le Maryland, la Pennsylvanie, la Virginie et la Floride), étudie comment ils pourraient mettre en œuvre le changement.",
+      "reference": "Et la coalition I-95, qui comprend 17 agences impliquées dans le transport routier dans des États longeant la côte est américaine (comprenant le Maryland, la Pennsylvanie, la Virginie et la Floride) étudie comment elle pourrait mettre en œuvre le changement."
+    },
+    {
+      "source": "The concept is not a universal hit.",
+      "prediction": "L’idée n’est pas un succès universel.",
+      "reference": "Le concept n'est pas un succès universel."
+    },
+    {
+      "source": "In Nevada, where about 50 volunteers' cars were equipped with the devices not long ago, drivers were uneasy about the government being able to monitor their every move.",
+      "prediction": "En Nevade, où environ 50 voitures équipées de ces dispositifs n'ont pas longtemps été en circulation, les conducteurs se sont montrés réticents à l'idée que le gouvernement puisse suivre leurs déplacements à chaque instant. (suite)",
+      "reference": "Dans le Nevada, où environ 50 automobilistes volontaires ont récemment équipé leur voiture d'un appareil, les conducteurs étaient inquiets que le gouvernement puisse suivre leurs moindres faits et gestes."
+    },
+    {
+      "source": "\"Concerns about Big Brother and those sorts of things were a major problem,\" said Alauddin Khan, who directs strategic and performance management at the Nevada Department of Transportation.",
+      "prediction": "\"Les inquiétudes à propos de Big Brother et ces sortes de choses étaient un problème majeur,\" a déclaré Alauddin Khan, qui dirige la gestion stratégique et la performance au Nevada Department of Transportation. (Photo credit: Wikipedia)",
+      "reference": "« Les inquiétudes au sujet de Big Brother et ce genre de choses sont un gros problème », a déclaré Alauddin Khan, qui dirige la gestion stratégique de la performance au département des Transports du Nevada."
+    },
+    {
+      "source": "It was not something people wanted.",
+      "prediction": "C’était ce qu’on ne voulait pas.",
+      "reference": "Ce n'est pas quelque chose que les gens veulent."
+    },
+    {
+      "source": "As the trial got underway, the ACLU of Nevada warned on its website: \"It would be fairly easy to turn these devices into full-fledged tracking devices.\"",
+      "prediction": "En cours du procès, l'ACLU du Nevada a averti sur son site Web : « Il serait assez facile de transformer ces appareils en véritables appareils de suivi. » (Photo credit: Wikipedia)",
+      "reference": "Dès le début de l'essai, l'ACLU du Nevada avertissait sur son site : « Ce serait relativement facile de transformer ces appareils en dispositifs de localisation à part entière. »"
+    },
+    {
+      "source": "There is no need to build an enormous, unwieldy technological infrastructure that will inevitably be expanded to keep records of individuals' everyday comings and goings.",
+      "prediction": "Il n'y a pas besoin de construire une infrastructure technologique énorme et inextricable qui enregistrera les déplacements quotidiens des individus.",
+      "reference": "Il n'est pas nécessaire de construire une infrastructure technologique énorme et encombrante qui sera inévitablement élargie pour conserver les enregistrements des allées et venues quotidiennes des gens."
+    },
+    {
+      "source": "Nevada is among several states now scrambling to find affordable technology that would allow the state to keep track of how many miles a car is being driven, but not exactly where and at what time.",
+      "prediction": "La Nevada est l’un des états qui se précipitent actuellement pour trouver une technologie abordable qui leur permettrait de suivre le nombre de kilomètres parcourus par une voiture, mais pas exactement où et à quel moment. (suite)",
+      "reference": "Le Nevada fait partie des quelques États qui se démènent désormais pour trouver une technologie abordable qui permettrait à l'État de savoir combien de miles parcourt une voiture, mais sans connaître le lieu ni l'heure exacts."
+    },
+    {
+      "source": "If you can do that, Khan said, the public gets more comfortable.",
+      "prediction": "Si vous pouvez faire ça, Khan a dit, le public se sent plus confortable.",
+      "reference": "Si on peut faire ça, a ajouté Khan, les citoyens seront plus à l'aise."
+    }
+  ]
+}
