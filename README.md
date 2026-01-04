@@ -51,9 +51,6 @@ Sample Translations: Qualitative analysis of model outputs (saved in evaluation_
 Gradio Demo: Interactive web interface for real-time translation.
 Batch Inference: Utilities for processing multiple inputs.
 
-### 5. Testing
-
-Unit Tests: Validation of preprocessing and inference logic.
 
 ## Setup Instructions
 Prerequisites
