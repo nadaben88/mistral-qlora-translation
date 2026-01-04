@@ -22,8 +22,11 @@ The fine-tuned Mistral-7B model achieved the following performance metrics on th
 ## Interpretation
 
 SacreBLEU (34.81): The model demonstrates strong translation quality, especially for a decoder-only architecture fine-tuned on a subsampled dataset.
+
 BLEU-1 (62.18): High precision for unigram matches, indicating strong lexical overlap with reference translations.
+
 BLEU-2/3/4: Progressive drop reflects the challenge of capturing multi-word expressions and longer dependencies, typical for transformer-based models on limited data.
+
 Qualitative Analysis: Sample translations show high fluency and contextual accuracy, making the model suitable for real-world applications.
 
 ## Architecture
