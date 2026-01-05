@@ -32,6 +32,9 @@ Qualitative Analysis: Sample translations show high fluency and contextual accur
 ## Architecture
 The pipeline consists of the following components:
 
+<img width="293" height="650" alt="image" src="https://github.com/user-attachments/assets/8f6b6596-2361-4e82-a24b-ea3aa73a6a49" />
+
+
 ### 1. Data Preprocessing
 
 Cleaning: Minimal noise filtering (short/identical pairs removed).
